@@ -2,7 +2,9 @@
 title: "The Effect of Vitamin C on Tooth Growth in Guinea Pigs"
 author: "Pranay Sarkar"
 date: "9th August, 2017"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ### Overview

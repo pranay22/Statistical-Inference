@@ -3,7 +3,9 @@ title: Investigate the exponential distribution in R and compare it with the Cen
   Limit Theorem
 author: "Pranay Sarkar"
 date: "9th August, 2017"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ## Overview
